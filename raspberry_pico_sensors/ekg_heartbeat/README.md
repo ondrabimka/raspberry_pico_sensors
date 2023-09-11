@@ -17,3 +17,6 @@ This repository contains the code for the ekg_heartbeat project. This project us
 - https://how2electronics.com/iot-ecg-monitoring-ad8232-sensor-esp32/
 - https://circuitdigest.com/microcontroller-projects/understanding-ecg-sensor-and-program-ad8232-ecg-sensor-with-arduino-to-diagnose-various-medical-conditions
 
+## Data exploration and analysis resources:
+- https://www.kaggle.com/code/stetelepta/exploring-heart-rate-variability-using-python
+- https://python-heart-rate-analysis-toolkit.readthedocs.io

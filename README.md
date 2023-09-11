@@ -17,7 +17,7 @@ This repository contains a collection of basic sensor measurements with MicroPyt
 
 ### Raspberry Pico (W) pinout
 - https://picow.pinout.xyz/
-![alt text](img/pinout.png)
+![alt text](imgs/pinout.png)
 
 ### Raspberry Pico (W) datasheet
 - https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
