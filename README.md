@@ -14,6 +14,7 @@ This repository contains a collection of basic sensor measurements with MicroPyt
 | [Strain gauge](/raspberry_pico_sensors/strain_gauge/README.md) | This setup uses strain gauge sensor (BF350-3AA/1.5AA) to measure the strain. |
 | [EKG heartbeat](/raspberry_pico_sensors/ekg_heartbeat/README.md) | This setup uses heart beat sensor (AD8232) to measure the heart beat rate. |
 | [Heartbeat](/raspberry_pico_sensors/heart_beat/README.md) | This setup uses heart beat sensor (XD-58C) to measure the heart beat rate. |
+| [Force](/raspberry_pico_sensors/force_sensing_resistor/README.md) | This setup uses force sensing resistor (FSR 400) to measure the force.
 
 ### Raspberry Pico (W) pinout
 - https://picow.pinout.xyz/
