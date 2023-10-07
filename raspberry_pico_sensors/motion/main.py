@@ -1,15 +1,14 @@
 from machine import Pin
-import time
- 
-pir = Pin(22, Pin.IN, Pin.PULL_DOWN)
-n = 0
- 
-print('Starting up the PIR Module')
-time.sleep(1)
-print('Ready')
- 
+import utime
+
+pir_sensor = Pin(16, Pin.IN)
+utime.sleep(2)
+
 while True:
-     if pir.value() == 1:
-          n = n+1
-          print('Motion Detected ',n)
-     time.sleep(1)
+   if pir_sensor.value() == 1:
+       print("Motion Detected")
+       utime.sleep(3)
+   else:
+       print("No Motion")
+       utime.sleep(1)
+       

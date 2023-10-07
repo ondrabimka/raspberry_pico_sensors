@@ -2,12 +2,12 @@
 This repository contains the code for the ekg_heartbeat project. This project uses heart beat sensor to measure the heart beat rate and save it into "ekg_data.txt" file. Some measurements can be found in the "exploration/ekg_data.txt" file.
 
 ## Requirements
-1. Arduino Pico
+1. Raspberry Pi Pico
 2. EKG sensor (AD8232)
 
 ## How to use
-1. Connect the sensor to the Arduino board as shown in the figure below.
-2. Upload the code to the Arduino board.
+1. Connect the sensor to the Raspberry board as shown in the figure below.
+2. Upload the code to the Raspberry board.
 3. TBD: schema how to attach sensors to your body.
 
 ## Setup
