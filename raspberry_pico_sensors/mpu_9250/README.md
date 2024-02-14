@@ -18,4 +18,7 @@ https://pypi.org/project/micropython-mpu9250/
 https://www.youtube.com/watch?v=ph10GSO8pDk
 https://github.com/tuupola/micropython-mpu9250/tree/improve-docs
 
+### Note
+Make sure that your wires are properly connected to the sensor. In my case they were not tight and the code was failing when measurement started.
+
 
