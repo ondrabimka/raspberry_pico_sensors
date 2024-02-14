@@ -17,7 +17,7 @@ This repository contains a collection of basic sensor measurements with MicroPyt
 | [Heartbeat](/raspberry_pico_sensors/heart_beat/README.md) | This setup uses heart beat sensor (XD-58C) to measure the heart beat rate. |
 | [Motion](/raspberry_pico_sensors/motion/README.md) | This setup uses HC-SR501 PIR Motion sensor to detect movement. |
 | [Force](/raspberry_pico_sensors/force_sensing_resistor/README.md) | This setup uses force sensing resistor (FSR 400) to measure the force. |
-| [MPU-9250 (gyro+acceleration)](/raspberry_pico_sensors/force_sensing_resistor/README.md) | MPU-9250 for movement measuring. |
+| [MPU-9250 (gyro+acceleration)](/raspberry_pico_sensors/mpu_9250/README.md) | MPU-9250 for movement measuring. |
 
 
 ### Raspberry Pico (W) pinout
