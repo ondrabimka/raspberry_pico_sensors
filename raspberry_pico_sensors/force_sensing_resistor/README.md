@@ -1,4 +1,4 @@
-# Welcome to force_sensig repository
+# Welcome to force_sensing repository
 This repository contains the code for the force sensing resistor project. This project uses force sensing resistor to measure the force.
 
 ## Requirements
