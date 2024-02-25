@@ -18,6 +18,7 @@ This repository contains a collection of basic sensor measurements with MicroPyt
 | [Motion](/raspberry_pico_sensors/motion/README.md) | This setup uses HC-SR501 PIR Motion sensor to detect movement. |
 | [Force](/raspberry_pico_sensors/force_sensing_resistor/README.md) | This setup uses force sensing resistor (FSR 400) to measure the force. |
 | [MPU-9250 (gyro+acceleration)](/raspberry_pico_sensors/mpu_9250/README.md) | MPU-9250 for movement measuring. |
+| [Temperature (DS18B20)](/raspberry_pico_sensors/DS18B20_temperature/README.md) | MPU-9250 for movement measuring. |
 
 
 ### Raspberry Pico (W) pinout

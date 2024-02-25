@@ -11,7 +11,7 @@ This repository contains the code for the force sensing resistor project. This p
 3. Press the sensor to measure the force.
 
 ## Setup
-![alt text](img/force.jpeg)
+![alt text](img/temperature.JPEG)
 
 ## More resources:
 https://www.pololu.com/product/1695
