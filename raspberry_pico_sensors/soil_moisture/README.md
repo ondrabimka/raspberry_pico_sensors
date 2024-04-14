@@ -3,12 +3,12 @@ This repository contains the code soil moisture measurement. Capture movement so
 
 ## Requirements
 1. Raspberry Pi Pico
-2. LM393
+2. LM393 (moisture sensor)
 
 ## How to use
 1. Connect the sensor to the Raspberry board as shown in the figure below.
 2. Upload the code to the Raspberry board.
-3. Observe how value changes (probably add some wather to see results quicker)
+3. Observe how value changes (probably add some wather to see the results quicker)
 
 ## Setup
 TBD
