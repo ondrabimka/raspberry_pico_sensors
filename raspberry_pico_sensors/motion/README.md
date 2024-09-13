@@ -1,5 +1,5 @@
-# Welcome to flex sensor measurement
-This repository contains the code for the PIR motoin sensor (HC-SR501)
+# Welcome to motion sensor measurement
+This repository contains the code for the PIR motion sensor (HC-SR501)
 
 ## Requirements
 1. Raspberry Pi Pico
