@@ -19,6 +19,7 @@ This repository contains a collection of basic sensor measurements with MicroPyt
 | [Force](/raspberry_pico_sensors/force_sensing_resistor/README.md) | This setup uses force sensing resistor (FSR 400) to measure the force. |
 | [MPU-9250 (gyro+acceleration)](/raspberry_pico_sensors/mpu_9250/README.md) | MPU-9250 for movement measuring. |
 | [Temperature (DS18B20)](/raspberry_pico_sensors/DS18B20_temperature/README.md) | DS18B20 for temperatire measuring. |
+| [Rain drops (MH-RD)](/raspberry_pico_sensors/rain_sensor/README.md) | Rain drop detection. |
 
 
 ### Raspberry Pico (W) pinout
