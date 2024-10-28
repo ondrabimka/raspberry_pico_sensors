@@ -20,6 +20,7 @@ This repository contains a collection of basic sensor measurements with MicroPyt
 | [MPU-9250 (gyro+acceleration)](/raspberry_pico_sensors/mpu_9250/README.md) | MPU-9250 for movement measuring. |
 | [Temperature (DS18B20)](/raspberry_pico_sensors/DS18B20_temperature/README.md) | DS18B20 for temperatire measuring. |
 | [Rain drops (MH-RD)](/raspberry_pico_sensors/rain_sensor/README.md) | Rain drop detection. |
+| [Temp/Humidity (DHT-22/AM2302)](/raspberry_pico_sensors/am_2302/README.md) | temperature and humidity. |
 
 
 ### Raspberry Pico (W) pinout
