@@ -11,7 +11,7 @@ This repository contains the code for measuring temperature using DS18B20 sensor
 3. Heat the sensor to see the changes.
 
 ## Setup
-![alt text](img/force.jpeg)
+![alt text](img/temperature.JPEG)
 
 ## More resources:
 https://randomnerdtutorials.com/raspberry-pi-pico-ds18b20-micropython/
