@@ -11,7 +11,7 @@ This repository contains the code for some movement measurements. Capture moveme
 3. Move the sensor to measure the movement.
 
 ## Setup
-![alt text](img/mpu9250.jpeg)
+![alt text](img/mpu9250.JPEG)
 
 ## More resources:
 https://pypi.org/project/micropython-mpu9250/ 
