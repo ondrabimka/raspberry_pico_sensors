@@ -33,7 +33,7 @@ This repository contains a collection of basic sensor measurements with MicroPyt
 
 #### Micopython setup
 Follow guide on:
-https://micropython.org/download/RPI_PICO/
+https://micropython.org/download/ (pick the correct file based on pico board)
 
 Or watch followng video (great content in this channel)
 https://www.youtube.com/watch?v=ERdmCimt1do
