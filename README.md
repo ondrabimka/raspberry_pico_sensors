@@ -23,7 +23,6 @@ This repository contains a collection of basic sensor measurements with MicroPyt
 | [Temp/Humidity (DHT-22/AM2302)](/raspberry_pico_sensors/am_2302/README.md) | temperature and humidity. |
 | [Build-in temperature sensor](raspberry_pico_sensors/buildin_temperature/README.md)  | This setup uses build in temperature sensor to measure the temperature. |
 
-
 ### Raspberry Pico (W) pinout
 - https://picow.pinout.xyz/
 
@@ -32,5 +31,9 @@ This repository contains a collection of basic sensor measurements with MicroPyt
 ### Raspberry Pico (W) datasheet
 - https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
 
+#### Micopython setup
+Follow guide on:
+https://micropython.org/download/RPI_PICO/
 
-
+Or watch followng video (great content in this channel)
+https://www.youtube.com/watch?v=ERdmCimt1do
